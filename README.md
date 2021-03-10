@@ -1,5 +1,5 @@
 # next_ML
-Learning notes of The Next Step of Machine Learning 
+EN learning notes of [The Next Step of Machine Learning ](https://www.youtube.com/playlist?list=PLJV_el3uVTsOK_ZK5L0Iv_EQoL1JefRL4)
 
 
 - Anomaly Detection
@@ -11,3 +11,8 @@ Learning notes of The Next Step of Machine Learning
 - Reinforcement learning?
 - Network Compression
 - Difference between Training Data and Testing Data
+
+
+
+### Referernce
+[The Next Step of Machine Learning ](https://www.youtube.com/playlist?list=PLJV_el3uVTsOK_ZK5L0Iv_EQoL1JefRL4)
